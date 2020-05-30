@@ -3,6 +3,7 @@ A collection of links and articles on security.
 
 ## Blog Pages
 * [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt runs [I Have Been Pwned](https://haveibeenpwned.com/) and posts insightful blogs on breaches and other security topics.
+* [The Daily Swig](https://portswigger.net/daily-swig) - The Daily Swig contains cybersecurity news and security articles. It is by the company that develops Burp Suite.
 
 ## Articles/Guides
 * [Cryptocoding](https://github.com/veorq/cryptocoding) - A list of "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values.
