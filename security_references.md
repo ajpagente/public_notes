@@ -9,7 +9,9 @@ A collection of links and articles on security.
 * [MITMProxy Publications](https://mitmproxy.org/publications/) - These is a collection of blog posts, research, and talks curated by the creators of mitmproxy. The page is not regularly updated however you can find some interesting links.
 
 ## Tutorials/Courses/Trainings
-* [BugCrowd University](https://github.com/bugcrowd/bugcrowd_university) - Open source education content for the researcher community.
+* [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite
+* [BugCrowd University](https://github.com/bugcrowd/bugcrowd_university) - Open source education content for the researcher community
+* [Hacker101](https://www.hacker101.com/) - Hacker101 is a free class for web security
 
 ## Articles/Guides
 * [Cryptocoding](https://github.com/veorq/cryptocoding) - A list of "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values.
