@@ -2,10 +2,14 @@
 A collection of links and articles on security.
 
 ## Blog Pages/ Newsletters
+* [Pentester.land](https://pentester.land/) - Pentester.land is the best hacking newsletter I've found. Pentester.land curates resources shared by pentesters and bug hunters.
+* [BugCrowd's LevelUp](https://www.bugcrowd.com/resources/levelup/) - LevelUp is a free series of online security conferences with content for the hacker and security researcher community.
 * [Troy Hunt](https://www.troyhunt.com/) - Troy Hunt runs [I Have Been Pwned](https://haveibeenpwned.com/) and posts insightful blogs on breaches and other security topics.
 * [The Daily Swig](https://portswigger.net/daily-swig) - The Daily Swig contains cybersecurity news and security articles. It is by the company that develops Burp Suite.
-* [Pentester.land](https://pentester.land/) - Pentester.land is the best hacking newsletter I've found. Pentester.land curates resources shared by pentesters and bug hunters.
 * [MITMProxy Publications](https://mitmproxy.org/publications/) - These is a collection of blog posts, research, and talks curated by the creators of mitmproxy. The page is not regularly updated however you can find some interesting links.
+
+## Tutorials/Courses/Trainings
+* [BugCrowd University](https://github.com/bugcrowd/bugcrowd_university) - Open source education content for the researcher community.
 
 ## Articles/Guides
 * [Cryptocoding](https://github.com/veorq/cryptocoding) - A list of "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values.
