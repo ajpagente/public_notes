@@ -9,6 +9,7 @@ A collection of links and articles on security.
 * [The Daily Swig](https://portswigger.net/daily-swig) - The Daily Swig contains cybersecurity news and security articles. It is by the company that develops Burp Suite.
 * [MITMProxy Publications](https://mitmproxy.org/publications/) - These is a collection of blog posts, research, and talks curated by the creators of mitmproxy. The page is not regularly updated however you can find some interesting links.
 * [sk3ptre's blog](http://skptr.me/) - sk3ptre collects Android malware and makes it available on his Github account. He does not post a lot of articles but the ones he wrote are quite informative. 
+* [Didier Steven's blog](https://blog.didierstevens.com/) - Didier posts on malware RE. He also writes and shares Python scripts.
 
 ## Tutorials/Courses/Trainings
 * [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite
