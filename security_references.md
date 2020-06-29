@@ -2,6 +2,7 @@
 A collection of links and articles on security.
 
 ## Blog Pages/ Newsletters
+* [Intigriti Blog](https://blog.intigriti.com/) - Good list og hacking resources updated weekly. The list is curated by Pentester.land
 * [Pentester.land](https://pentester.land/) - Pentester.land is the best hacking newsletter I've found. Pentester.land curates resources shared by pentesters and bug hunters.
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - Google's security research blog
 * [BugCrowd's LevelUp](https://www.bugcrowd.com/resources/levelup/) - LevelUp is a free series of online security conferences with content for the hacker and security researcher community.
